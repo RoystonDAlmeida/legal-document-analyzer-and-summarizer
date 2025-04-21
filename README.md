@@ -91,7 +91,7 @@ The analysis results are outputted as a JSON file, containing the following keys
     ]
     ```
 -    `court_decisions`: A list of extracted court decisions.
-    ```
+    ```bash
     [
          {
            "docket_number": "case identifier",
